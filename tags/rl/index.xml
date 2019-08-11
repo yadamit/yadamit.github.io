@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RL | Amit Yadav</title>
+    <link>/tags/rl/</link>
+      <atom:link href="/tags/rl/index.xml" rel="self" type="application/rss+xml" />
+    <description>RL</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `Amit Yadav`</copyright><lastBuildDate>Sat, 27 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/icon-192.png</url>
+      <title>RL</title>
+      <link>/tags/rl/</link>
+    </image>
+    
+    <item>
+      <title>Reinforcement Learning for Temporal Logic Goal</title>
+      <link>/project/rltl/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/project/rltl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning Based Control of Quadrotor</title>
+      <link>/project/rl_quadrotor/</link>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/project/rl_quadrotor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autonomous Atari game Player</title>
+      <link>/project/atari_game/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/project/atari_game/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

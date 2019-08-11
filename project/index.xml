@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Amit Yadav</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `Amit Yadav`</copyright><lastBuildDate>Sat, 27 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/icon-192.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>Reinforcement Learning for Temporal Logic Goal</title>
+      <link>/project/rltl/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/project/rltl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated Image Captioning</title>
+      <link>/project/image_captioning/</link>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/project/image_captioning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GemOS</title>
+      <link>/project/os/</link>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/project/os/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning Based Control of Quadrotor</title>
+      <link>/project/rl_quadrotor/</link>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/project/rl_quadrotor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autonomous Atari game Player</title>
+      <link>/project/atari_game/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/project/atari_game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Remote Shell Access Service</title>
+      <link>/project/remote_shell/</link>
+      <pubDate>Wed, 27 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/project/remote_shell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GO compiler</title>
+      <link>/project/compiler/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/compiler/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
