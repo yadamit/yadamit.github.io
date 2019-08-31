@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Amit Yadav</title>
-    <link>/post/</link>
-      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Posts</description>
+    <title>Thoughts | Amit Yadav</title>
+    <link>/tags/thoughts/</link>
+      <atom:link href="/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thoughts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `Amit Yadav`</copyright><lastBuildDate>Sat, 31 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/icon-192.png</url>
-      <title>Posts</title>
-      <link>/post/</link>
+      <title>Thoughts</title>
+      <link>/tags/thoughts/</link>
     </image>
     
     <item>
