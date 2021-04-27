@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tool | Amit Yadav</title>
+    <link>/tags/tool/</link>
+      <atom:link href="/tags/tool/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tool</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `Amit Yadav`</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/icon-192.png</url>
+      <title>Tool</title>
+      <link>/tags/tool/</link>
+    </image>
+    
+    <item>
+      <title>Linux Command-line tools</title>
+      <link>/post/linux-tools/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/post/linux-tools/</guid>
+      <description>&lt;p&gt;When you have seven courses in a semester, it gets a little hard to keep track of all assignment/project submission deadlines. Since I spend most of my time working on a linux terminal,  I felt it would be really helpful if I could check my deadlines with a simple command. So I wrote a command line tool in python which lists all upcoming deadlines, along with number of days left.
+It might not be a very efficient tool but it gets the work done.&lt;/p&gt;
+
+&lt;p&gt;Feel free to check it out &lt;a href=&#34;https://github.com/yadamit/Deadlines&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I also wrote a To-Do tool which is a modified version of the Deadlines tool.
+Check it out &lt;a href=&#34;https://github.com/yadamit/TODO-tool&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Ping me if you have any suggestions or feedback.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

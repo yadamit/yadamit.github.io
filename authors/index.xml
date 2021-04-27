@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `Amit Yadav`</copyright><lastBuildDate>Sat, 14 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `Amit Yadav`</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/icon-192.png</url>
       <title>Authors</title>
@@ -15,11 +15,12 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Sat, 14 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;I am a final year undergraduate, majoring in Computer Science and Engineering at Indian Institute of Technology Kanpur. At IIT Kanpur, I had the previlege to work on many projects with amazing professors and students. I recently completed my summer internship at Samsung Research Institute Bangalore, where I worked in SAIT (Samsung Advanced Institute of Technology) team.&lt;/p&gt;
+      <description>&lt;p&gt;I am working as a software engineer at &lt;a href=&#34;https://research.samsung.com/sri-b&#34; target=&#34;_blank&#34;&gt;Samsung Research Institute Bangalore&lt;/a&gt;. I majored in Computer Science and Engineering from &lt;a href=&#34;https://www.iitk.ac.in/&#34; target=&#34;_blank&#34;&gt;Indian Institute of Technology Kanpur&lt;/a&gt;. At IIT Kanpur, I had the previlege to work on many projects with amazing professors and colleagues.
+At the end of my third year, I did a summer internship at Samsung Research Institute Bangalore. I also had a wonderful opportunity to study at &lt;a href=&#34;https://www.aalto.fi/en&#34; target=&#34;_blank&#34;&gt;Aalto University, Finland&lt;/a&gt; for one semester as an exchange student.&lt;/p&gt;
 
-&lt;p&gt;I am currently looking for Masters / Research Assistant opportunities. Much of my undergrad research concerns reinforcement learning and computer vision.&lt;/p&gt;
+&lt;p&gt;Much of my undergrad research concerns reinforcement learning and computer vision. Apart from academics, I enjoy cycling and playing Ultimate.&lt;/p&gt;
 
 &lt;p&gt;Download my CV &lt;a href=&#34;files/CV.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
